@@ -5,7 +5,7 @@ import NavBarForm from "./components/NavBarForm";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <NavBarForm />
     </div>
   );
